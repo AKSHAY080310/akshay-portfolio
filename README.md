@@ -16,5 +16,3 @@ python -m http.server 8000
 
 Then visit `http://localhost:8000`.
 
-## Before deploying
-Replace the placeholder `#` links for LinkedIn and GitHub in `index.html` with the actual profile URLs.
